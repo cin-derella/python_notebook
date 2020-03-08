@@ -11,7 +11,7 @@ group.add_argument('-q','--quiet',action='store_true')
 parser.add_argument('-n',type=complex,required=True)
 
 args = parser.parse_args()
-  
+
 if args.quiet:
     print('quiet mode...')
     print('nothing to see ')
