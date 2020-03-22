@@ -1,0 +1,4 @@
+Exception ignored in: <bound method Person.__del__ of <__main__.Person object at 0x111e96208>>
+Traceback (most recent call last):
+  File "<ipython-input-30-6ed6e62e38b8>", line 3, in __del__
+ValueError: Something went bump...
